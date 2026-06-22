@@ -1,14 +1,4 @@
-   _____ _                   _   _______     _                   
-  / ____(_)                 | | |__   __|   (_)                  
- | (___  _  __ _ _ __   __ _| |    | |_ __   _  __ _  __ _  ___  
-  \___ \| |/ _` | '_ \ / _` | |    | | '__| | |/ _` |/ _` |/ _ \ 
-  ____) | | (_| | | | | (_| | |    | | |    | | (_| | (_| |  __/ 
- |_____/|_|\__, |_| |_|\__,_|_|    |_|_|    |_|\__,_|\__, |\___| 
-            __/ |                                      __/ |     
-           |___/                                      |___/      
-
-           
- Signal Triage
+Signal Triage
 
 Simple SOC-style authentication log analyzer built in Python. It utilizes SSO/VPN-style login events and flags suspicious patterns, then produces an incident-style markdown report and readable alert exports.
 
