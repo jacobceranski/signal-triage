@@ -1,4 +1,4 @@
-# Signal Triage — Usage Instructions (Beginner-Friendly)
+# Signal Triage — Usage Instructions
 
 This guide explains how to download, run, test, and understand **Signal Triage**.
 
