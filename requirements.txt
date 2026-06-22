@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pytest
+=======
+# Signal Triage currently uses only the Python standard library.
+>>>>>>> 5be87b0 (Build Signal Triage auth log analyzer)

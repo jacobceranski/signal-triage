@@ -1,0 +1,7 @@
+﻿ts,user,ip,result,source,country,user_agent
+2026-06-22T16:00:01Z,jceranski,203.0.113.10,fail,vpn,US,AnyConnect/4.10
+2026-06-22T16:01:41Z,jceranski,203.0.113.10,success,vpn,US,AnyConnect/4.10
+2026-06-22T16:05:00Z,asmith,198.51.100.77,fail,sso,US,OktaVerify/7.2
+2026-06-22T16:08:40Z,jceranski,198.51.100.77,fail,sso,US,OktaVerify/7.2
+2026-06-22T16:20:00Z,asmith,192.0.2.55,success,sso,US,Chrome/125
+2026-06-22T16:35:00Z,asmith,203.0.113.222,success,sso,DE,Chrome/125
